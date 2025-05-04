@@ -1,0 +1,9 @@
+{
+    "id": "symfony",
+    "version": "1.0.0",
+    "name": "PHP",
+    "description": "DevContainer setup for a symfony project",
+    "documentationURL": "https://derroylo.github.io",
+    "publisher": "Derroylo",
+    "licenseURL": "https://github.com/Derroylo/devcontainer-templates/blob/main/LICENSE"
+}

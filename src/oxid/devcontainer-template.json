@@ -1,0 +1,9 @@
+{
+    "id": "oxid",
+    "version": "1.0.0",
+    "name": "Oxid",
+    "description": "DevContainer setup for a OXID eShop project",
+    "documentationURL": "https://derroylo.github.io",
+    "publisher": "Derroylo",
+    "licenseURL": "https://github.com/Derroylo/devcontainer-templates/blob/main/LICENSE"
+}

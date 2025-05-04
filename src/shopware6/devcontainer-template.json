@@ -1,0 +1,9 @@
+{
+    "id": "shopware6",
+    "version": "1.0.0",
+    "name": "Shopware6",
+    "description": "DevContainer setup for a shopware 6 project",
+    "documentationURL": "https://derroylo.github.io",
+    "publisher": "Derroylo",
+    "licenseURL": "https://github.com/Derroylo/devcontainer-templates/blob/main/LICENSE"
+}
