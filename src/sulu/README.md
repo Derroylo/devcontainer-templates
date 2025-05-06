@@ -1,5 +1,5 @@
 
-# PHP (sulu)
+# Sulu (sulu)
 
 DevContainer setup for a SULU project
 
