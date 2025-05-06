@@ -1,5 +1,5 @@
 
-# PHP (symfony)
+# Symfony (symfony)
 
 DevContainer setup for a symfony project
 
