@@ -1,7 +1,7 @@
 {
     "id": "symfony",
     "version": "1.0.0",
-    "name": "PHP",
+    "name": "Symfony",
     "description": "DevContainer setup for a symfony project",
     "documentationURL": "https://derroylo.github.io",
     "publisher": "Derroylo",

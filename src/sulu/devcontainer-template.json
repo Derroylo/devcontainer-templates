@@ -1,7 +1,7 @@
 {
     "id": "sulu",
     "version": "1.0.0",
-    "name": "PHP",
+    "name": "Sulu",
     "description": "DevContainer setup for a SULU project",
     "documentationURL": "https://derroylo.github.io",
     "publisher": "Derroylo",
